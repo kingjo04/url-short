@@ -1,2 +1,2 @@
-flask==3.0.3
-gunicorn==20.1.0
+  flask==3.0.3
+  supabase==2.7.1
